@@ -1,2 +1,2 @@
 # hacker_rank
-Some hacker rank solution
+HackerRank partial solutions to Pythonist May 2015
